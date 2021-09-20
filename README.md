@@ -4,7 +4,9 @@ Emma Bluemke, Eleanor Stride, Daniel Bulte
 
 Institute of Biomedical Engineering, Department of Engineering Sciences, University of Oxford, UK
 
-emma.bluemke@new.ox.ac.uk
+Questions? Raise an issue here on GitHub
+
+![](r1Oximage.png)
 
 ### Abstract
 Researchers have investigated using the paramagnetic relaxivity effect of oxygen on longitudinal relaxation as a means of inferring oxygenation levels for applications ranging from cancer therapy to seawater analysis. The relationship between PO<sub>2</sub> and R1 is linear and reproducible, and the constant of proportionality represents the relaxivity of oxygen, or r1<sub>Ox</sub>, in that material. However, there is considerable variability in the values of r1<sub>Ox</sub> reported, and they have been shown to vary by field strength and temperature. Therefore, we have compiled 28 reported empirical values of the relaxivity of oxygen as a resource for researchers. Furthermore, we provide an empirical model for estimating the relaxivity of oxygen in water, saline, plasma and vitreous fluids, accounting for magnetic field strength and temperature. The model agrees well (R<sup>2</sup>=0.93) with the data gathered from literature, ranging from 0.011-8.45T and 21-40°C. This provides a useful resource for researchers seeking to quantify PO<sub>2</sub> in simple fluids in their studies, such as water and saline phantoms, or bodily fluids such as vitreous fluids, cerebrospinal fluids, and amniotic fluids.
